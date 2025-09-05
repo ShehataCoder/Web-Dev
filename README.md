@@ -1,6 +1,6 @@
 # Web-Dev
 
-Collection of my **HTML, CSS, and JavaScript projects** as part of my journey to become a **Full-Stack Developer**.  
+Collection of my **HTML, CSS  projects** as part of my journey to become a **Full-Stack Developer**.  
 Practicing responsive design, interactivity, and building my portfolio.
 
 ---
